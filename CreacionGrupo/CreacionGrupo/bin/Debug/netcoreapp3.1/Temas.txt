@@ -1,0 +1,5 @@
+Concepto de ordenador como autómata.
+Concepto de lenguaje máquina: datos e instrucciones.
+Concepto de lenguajes de alto y bajo nivel.
+Concepto de intérprete y lenguaje interpretado.
+Concepto de máquina virtual.
