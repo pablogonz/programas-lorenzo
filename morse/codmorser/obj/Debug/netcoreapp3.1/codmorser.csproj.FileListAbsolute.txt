@@ -1,0 +1,13 @@
+C:\Users\pjgon\Desktop\morse\codmorser\bin\Debug\netcoreapp3.1\codmorser.exe
+C:\Users\pjgon\Desktop\morse\codmorser\bin\Debug\netcoreapp3.1\codmorser.deps.json
+C:\Users\pjgon\Desktop\morse\codmorser\bin\Debug\netcoreapp3.1\codmorser.runtimeconfig.json
+C:\Users\pjgon\Desktop\morse\codmorser\bin\Debug\netcoreapp3.1\codmorser.runtimeconfig.dev.json
+C:\Users\pjgon\Desktop\morse\codmorser\bin\Debug\netcoreapp3.1\codmorser.dll
+C:\Users\pjgon\Desktop\morse\codmorser\bin\Debug\netcoreapp3.1\codmorser.pdb
+C:\Users\pjgon\Desktop\morse\codmorser\obj\Debug\netcoreapp3.1\codmorser.csprojAssemblyReference.cache
+C:\Users\pjgon\Desktop\morse\codmorser\obj\Debug\netcoreapp3.1\codmorser.AssemblyInfoInputs.cache
+C:\Users\pjgon\Desktop\morse\codmorser\obj\Debug\netcoreapp3.1\codmorser.AssemblyInfo.cs
+C:\Users\pjgon\Desktop\morse\codmorser\obj\Debug\netcoreapp3.1\codmorser.csproj.CoreCompileInputs.cache
+C:\Users\pjgon\Desktop\morse\codmorser\obj\Debug\netcoreapp3.1\codmorser.dll
+C:\Users\pjgon\Desktop\morse\codmorser\obj\Debug\netcoreapp3.1\codmorser.pdb
+C:\Users\pjgon\Desktop\morse\codmorser\obj\Debug\netcoreapp3.1\codmorser.genruntimeconfig.cache
