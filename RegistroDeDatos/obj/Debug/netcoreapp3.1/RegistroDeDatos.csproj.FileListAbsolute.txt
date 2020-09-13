@@ -1,0 +1,13 @@
+C:\Users\pjgon\Desktop\RegistroDeDatos\bin\Debug\netcoreapp3.1\RegistroDeDatos.exe
+C:\Users\pjgon\Desktop\RegistroDeDatos\bin\Debug\netcoreapp3.1\RegistroDeDatos.deps.json
+C:\Users\pjgon\Desktop\RegistroDeDatos\bin\Debug\netcoreapp3.1\RegistroDeDatos.runtimeconfig.json
+C:\Users\pjgon\Desktop\RegistroDeDatos\bin\Debug\netcoreapp3.1\RegistroDeDatos.runtimeconfig.dev.json
+C:\Users\pjgon\Desktop\RegistroDeDatos\bin\Debug\netcoreapp3.1\RegistroDeDatos.dll
+C:\Users\pjgon\Desktop\RegistroDeDatos\bin\Debug\netcoreapp3.1\RegistroDeDatos.pdb
+C:\Users\pjgon\Desktop\RegistroDeDatos\obj\Debug\netcoreapp3.1\RegistroDeDatos.csprojAssemblyReference.cache
+C:\Users\pjgon\Desktop\RegistroDeDatos\obj\Debug\netcoreapp3.1\RegistroDeDatos.AssemblyInfoInputs.cache
+C:\Users\pjgon\Desktop\RegistroDeDatos\obj\Debug\netcoreapp3.1\RegistroDeDatos.AssemblyInfo.cs
+C:\Users\pjgon\Desktop\RegistroDeDatos\obj\Debug\netcoreapp3.1\RegistroDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\pjgon\Desktop\RegistroDeDatos\obj\Debug\netcoreapp3.1\RegistroDeDatos.dll
+C:\Users\pjgon\Desktop\RegistroDeDatos\obj\Debug\netcoreapp3.1\RegistroDeDatos.pdb
+C:\Users\pjgon\Desktop\RegistroDeDatos\obj\Debug\netcoreapp3.1\RegistroDeDatos.genruntimeconfig.cache
