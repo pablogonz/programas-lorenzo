@@ -1,0 +1,12 @@
+C:\Users\pjgon\Desktop\Programacion Funcional\Primenumbers\bin\Debug\netcoreapp3.1\Primenumbers.exe
+C:\Users\pjgon\Desktop\Programacion Funcional\Primenumbers\bin\Debug\netcoreapp3.1\Primenumbers.deps.json
+C:\Users\pjgon\Desktop\Programacion Funcional\Primenumbers\bin\Debug\netcoreapp3.1\Primenumbers.runtimeconfig.json
+C:\Users\pjgon\Desktop\Programacion Funcional\Primenumbers\bin\Debug\netcoreapp3.1\Primenumbers.runtimeconfig.dev.json
+C:\Users\pjgon\Desktop\Programacion Funcional\Primenumbers\bin\Debug\netcoreapp3.1\Primenumbers.dll
+C:\Users\pjgon\Desktop\Programacion Funcional\Primenumbers\bin\Debug\netcoreapp3.1\Primenumbers.pdb
+C:\Users\pjgon\Desktop\Programacion Funcional\Primenumbers\obj\Debug\netcoreapp3.1\Primenumbers.AssemblyInfoInputs.cache
+C:\Users\pjgon\Desktop\Programacion Funcional\Primenumbers\obj\Debug\netcoreapp3.1\Primenumbers.AssemblyInfo.cs
+C:\Users\pjgon\Desktop\Programacion Funcional\Primenumbers\obj\Debug\netcoreapp3.1\Primenumbers.csproj.CoreCompileInputs.cache
+C:\Users\pjgon\Desktop\Programacion Funcional\Primenumbers\obj\Debug\netcoreapp3.1\Primenumbers.dll
+C:\Users\pjgon\Desktop\Programacion Funcional\Primenumbers\obj\Debug\netcoreapp3.1\Primenumbers.pdb
+C:\Users\pjgon\Desktop\Programacion Funcional\Primenumbers\obj\Debug\netcoreapp3.1\Primenumbers.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\pjgon\Desktop\Programacion Funcional\Naturalnumbers\bin\Debug\netcoreapp3.1\Naturalnumbers.exe
+C:\Users\pjgon\Desktop\Programacion Funcional\Naturalnumbers\bin\Debug\netcoreapp3.1\Naturalnumbers.deps.json
+C:\Users\pjgon\Desktop\Programacion Funcional\Naturalnumbers\bin\Debug\netcoreapp3.1\Naturalnumbers.runtimeconfig.json
+C:\Users\pjgon\Desktop\Programacion Funcional\Naturalnumbers\bin\Debug\netcoreapp3.1\Naturalnumbers.runtimeconfig.dev.json
+C:\Users\pjgon\Desktop\Programacion Funcional\Naturalnumbers\bin\Debug\netcoreapp3.1\Naturalnumbers.dll
+C:\Users\pjgon\Desktop\Programacion Funcional\Naturalnumbers\bin\Debug\netcoreapp3.1\Naturalnumbers.pdb
+C:\Users\pjgon\Desktop\Programacion Funcional\Naturalnumbers\obj\Debug\netcoreapp3.1\Naturalnumbers.AssemblyInfoInputs.cache
+C:\Users\pjgon\Desktop\Programacion Funcional\Naturalnumbers\obj\Debug\netcoreapp3.1\Naturalnumbers.AssemblyInfo.cs
+C:\Users\pjgon\Desktop\Programacion Funcional\Naturalnumbers\obj\Debug\netcoreapp3.1\Naturalnumbers.csproj.CoreCompileInputs.cache
+C:\Users\pjgon\Desktop\Programacion Funcional\Naturalnumbers\obj\Debug\netcoreapp3.1\Naturalnumbers.dll
+C:\Users\pjgon\Desktop\Programacion Funcional\Naturalnumbers\obj\Debug\netcoreapp3.1\Naturalnumbers.pdb
+C:\Users\pjgon\Desktop\Programacion Funcional\Naturalnumbers\obj\Debug\netcoreapp3.1\Naturalnumbers.genruntimeconfig.cache

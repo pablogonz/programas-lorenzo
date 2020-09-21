@@ -1,0 +1,13 @@
+C:\Users\pjgon\Desktop\Programacion Funcional\Fibofunction\bin\Debug\netcoreapp3.1\Fibofunction.exe
+C:\Users\pjgon\Desktop\Programacion Funcional\Fibofunction\bin\Debug\netcoreapp3.1\Fibofunction.deps.json
+C:\Users\pjgon\Desktop\Programacion Funcional\Fibofunction\bin\Debug\netcoreapp3.1\Fibofunction.runtimeconfig.json
+C:\Users\pjgon\Desktop\Programacion Funcional\Fibofunction\bin\Debug\netcoreapp3.1\Fibofunction.runtimeconfig.dev.json
+C:\Users\pjgon\Desktop\Programacion Funcional\Fibofunction\bin\Debug\netcoreapp3.1\Fibofunction.dll
+C:\Users\pjgon\Desktop\Programacion Funcional\Fibofunction\bin\Debug\netcoreapp3.1\Fibofunction.pdb
+C:\Users\pjgon\Desktop\Programacion Funcional\Fibofunction\obj\Debug\netcoreapp3.1\Fibofunction.csprojAssemblyReference.cache
+C:\Users\pjgon\Desktop\Programacion Funcional\Fibofunction\obj\Debug\netcoreapp3.1\Fibofunction.AssemblyInfoInputs.cache
+C:\Users\pjgon\Desktop\Programacion Funcional\Fibofunction\obj\Debug\netcoreapp3.1\Fibofunction.AssemblyInfo.cs
+C:\Users\pjgon\Desktop\Programacion Funcional\Fibofunction\obj\Debug\netcoreapp3.1\Fibofunction.csproj.CoreCompileInputs.cache
+C:\Users\pjgon\Desktop\Programacion Funcional\Fibofunction\obj\Debug\netcoreapp3.1\Fibofunction.dll
+C:\Users\pjgon\Desktop\Programacion Funcional\Fibofunction\obj\Debug\netcoreapp3.1\Fibofunction.pdb
+C:\Users\pjgon\Desktop\Programacion Funcional\Fibofunction\obj\Debug\netcoreapp3.1\Fibofunction.genruntimeconfig.cache
